@@ -7,7 +7,7 @@ I enjoyed this challenge because I was able to experiment with different CSS sty
 
 ## Repository
 
-Link to deployed code: 
+Link to deployed code: https://wintino5.github.io/Weather_DashboardWJr/
 
 ## Technologies
 
