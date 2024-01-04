@@ -22,5 +22,5 @@ MIT License
 
 The following image shows the web application's functionality and appearance:
 
-![This webpage includes the weather dashboard.](./assets/images/Weather_Dashboard.png)
+![This webpage includes the weather dashboard.](./assets/images/#2Weather_Dashboard.png)
 
