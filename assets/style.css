@@ -77,3 +77,27 @@ h1 {
     margin-top: -10px;
     text-transform: capitalize;
 }
+
+.forecast h2 {
+    font-size: 1.35rem;
+    margin: 20px 0;
+}
+
+.weather-cards {
+    display: flex;
+    gap: 30px;
+}
+
+.weather-cards .card {
+    list-style: none;
+    color: bisque;
+    padding: 18px 16px;
+    border-radius: 4px;
+    background: rgb(21, 21, 100);
+    width: calc(100% / 5);
+}
+
+.weather-cards .card img {
+    max-width: 70px;
+    margin: 5px 0 -12px 0;
+}
